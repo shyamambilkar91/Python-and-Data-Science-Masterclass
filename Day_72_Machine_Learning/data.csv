@@ -1,0 +1,8 @@
+,carname,color,age,speed,AutoPass
+0,BMW,Red,5,99,y
+1,VOLVO,Blue,7,88,y
+2,Ford,Green,8,87,n
+3,Tesla,orange,7,88,n
+4,Tata,white,2,110,n
+5,Toyato,yellow,17,100,y
+6,Hundai,black,6,90,y

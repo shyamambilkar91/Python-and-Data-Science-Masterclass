@@ -1,0 +1,25 @@
+Day,Outlook,Temprature,Humadity,Wind,Play ball,,,,,,,,,,,,,
+1,Sunny,Hot,High,Weak,No,,,Outlook,P[YES],P[NO],"I(P,N)",,Day,Outlook,Temprature,Humadity,Wind,Play ball
+2,Sunny,Hot,High,Strong,No,,,SUNNY,2,3,,,1,Sunny,Hot,High,Weak,No
+3,Overcast,Hot,High,Weak,Yes,,,RAIN,3,2,,,2,Sunny,Hot,High,Strong,No
+4,Rain,Mild,High,Weak,Yes,,,OVERCAST,4,0,,,8,Sunny,Mild,High,Weak,No
+5,Rain,Cool,Normal,Weak,Yes,,,,,,,,9,Sunny,Cool,Normal,Weak,Yes
+6,Rain,Cool,Normal,Strong,No,,,,,,,,11,Sunny,Mild,Normal,Strong,Yes
+7,Overcast,Cool,Normal,Strong,Yes,,,Temprature,P[YES],P[NO],"I(P,N)",,,,,,,
+8,Sunny,Mild,High,Weak,Yes,,,Hot,2,2,,,,,,,,
+9,Sunny,Cool,Normal,Weak,No,,,Cool,2,2,,,Day,Outlook,Temprature,Humadity,Wind,Play ball
+10,Rain,Mild,Normal,Weak,Yes,,,Mild,5,1,,,3,Overcast,Hot,High,Weak,Yes
+11,Sunny,Mild,Normal,Strong,Yes,,,,,,,,7,Overcast,Cool,Normal,Strong,Yes
+12,Overcast,Mild,High,Strong,Yes,,,,,,,,12,Overcast,Mild,High,Strong,Yes
+13,Overcast,Hot,Normal,Weak,Yes,,,Humadity,P[YES],P[NO],"I(P,N)",,13,Overcast,Hot,Normal,Weak,Yes
+14,Rain,Mild,High,Strong,No,,,High,0,3,,,,,,,,
+,,,,,,,,Normal,1,1,,,Day,Outlook,Temprature,Humadity,Wind,Play ball
+,,,,,,,,,,,,,4,Rain,Mild,High,Weak,Yes
+,,,,,,,,Wind,P[YES],P[NO],"I(P,N)",,5,Rain,Cool,Normal,Weak,Yes
+,,,,,,,,Strong,1,1,1,,6,Rain,Cool,Normal,Strong,No
+,,,,,,,,Weak,1,2,,,10,Rain,Mild,Normal,Weak,Yes
+,,Temprature,P[YES],P[NO],"I(P,N)",,,,,,,,14,Rain,Mild,High,Strong,No
+,,Hot,0,0,0,,,,,,,,,,,,,
+,,Cool,1,1,1,,,Wind,P[YES],P[NO],"I(P,N)",,,,,,,
+,,Mild,2,1,0.918,,,Strong,0,2,0,,,,,,,
+,,,,,,,,Weak,3,0,0,,,,,,,
